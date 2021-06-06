@@ -1,2 +1,2 @@
-# Application with Java + Maven + Pipeline
+# Application with Java + Maven + Pipelines
 This is a demo
